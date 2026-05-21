@@ -1,1 +1,6 @@
-Test: Now
+Now:
+  [defaults]
+become:
+  custom:
+    name: Hazal
+    lastname: Alenazi
